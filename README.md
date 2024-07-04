@@ -165,3 +165,19 @@ Now we can disable all resources and close project environment
 6. **Configure Apache Airflow:**
    * Update the DAG configuration in dag.py with your project-specific details.
 
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch with a descriptive name.
+3. Make your changes and commit them with clear and concise messages.
+4. Push your changes to your fork.
+5. Open a pull request to the main repository.
+
+Please ensure your code follows the project's coding standards and passes all tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
